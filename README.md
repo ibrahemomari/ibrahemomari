@@ -57,7 +57,7 @@
 ![Profile views](https://gpvc.arturio.dev/ibrahemomari)
 
 </div>
-
+<hr/>
 <div align="center" class="row">
             <div class="skills">
             <img style="   border: none;
